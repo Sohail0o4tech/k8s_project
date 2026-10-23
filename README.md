@@ -14,9 +14,6 @@ Welcome to the **Full Stack Realtime Chat App** project, where we're building a 
 * [Getting Started](#getting-started)
 * [Building the Backend](#building-the-backend)
 * [Running the Application](#running-the-application)
-* [Contributing](#contributing)
-* [Future Plans](#future-plans)
-* [License](#license)
 
 ## 📝 Introduction
 
